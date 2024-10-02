@@ -25,9 +25,8 @@ List of the websites/products I developed as below :
 
     2.  oData
      
-      Brief - Basically a product for UK based compay(Oakrays) which is being used for maintaining the properties in UK for normal people
-            - I have designed it's frontend and also responsible for developing the api for it
+        Brief - Basically a product for UK based compay(Oakrays) which is being used for maintaining the properties in UK for normal people. I have designed it's frontend and also responsible for developing the api for it
 
     3.  OData Integrations
      
-      Brief - This is the very complex and crucial system developed for creating/fetching and exporting varios regulatory forms/certificates for clients. My contribution is the development of entire backend system along with UI
+        Brief - This is the very complex and crucial system developed for creating/fetching and exporting varios regulatory forms/certificates for clients. My contribution is the development of entire backend system along with UI
